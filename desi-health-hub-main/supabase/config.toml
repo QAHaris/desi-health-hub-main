@@ -1,0 +1,4 @@
+project_id = "ycfkfcmxqfxkcywceaut"
+
+[functions.diet-advisor]
+verify_jwt = false
